@@ -757,14 +757,6 @@ video {
   height: 4rem;
 }
 
-.h-full{
-  height: 100%;
-}
-
-.h-\[100vh\]{
-  height: 100vh;
-}
-
 .min-h-\[80vh\]{
   min-height: 80vh;
 }
@@ -1504,10 +1496,6 @@ h3{
 }
 
 @media (min-width: 1180px){
-  .xl\:h-\[100vh\]{
-    height: 100vh;
-  }
-
   .xl\:w-2\/3{
     width: 66.666667%;
   }
